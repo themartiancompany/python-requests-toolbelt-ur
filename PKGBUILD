@@ -79,3 +79,4 @@ package() {
       --root="${pkgdir}" \
       --optimize=1
 }
+
